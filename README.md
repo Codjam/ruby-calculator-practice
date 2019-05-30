@@ -4,4 +4,4 @@ In order to use this calculator it has to be done in the terminal. Use the comma
 
 Thank You,
 
-Jamal
+Codjam
